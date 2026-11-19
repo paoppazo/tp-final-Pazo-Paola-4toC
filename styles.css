@@ -4,7 +4,6 @@
     justify-content: center;
     padding-top: 10px;
     padding-bottom: 10px;
-    border: 1px solid #455546;
     border-radius: 5px;
 }
 
@@ -23,18 +22,25 @@
 
 #menu li a:hover {
     color: white;
-    background-color: #D1745D;
+    background-color: #455546;
     border-radius: 5px;
    
 }
 
 .imagen {
-    max-width: 300px;
+    max-width: 800px;
     height: auto;
     margin: 10px;
-    border-radius: 5px;
-    border: 1px solid black;
+    
 }
+
+.imagen2 {
+    max-width: 400px;
+    height: auto;
+    margin: 10px;
+    
+}
+
 
 footer {
     text-align: center;
@@ -48,10 +54,22 @@ footer {
     text-align: center;
 }
 p {
-    background-color: beige;
+    background-color: #b3c7d2;
     padding: 20px;
+    text-align: center;
+    border-radius: 5px;
 }
 body {
-    background-color: #E5DECF;
+    background-color: #e5d4cf;
     font-family: Arial, sans-serif;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 42px;
+    font-weight: bold;
+    font-family: 'Arial Black', sans-serif;
+    background-color: #f3b353e0;
+    padding: 20px;
 }
