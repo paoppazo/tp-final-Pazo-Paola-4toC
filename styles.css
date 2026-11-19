@@ -72,7 +72,7 @@ h1 {
     font-size: 42px;
     font-weight: bold;
     font-family: 'Arial Black', sans-serif;
-    background-color: #fba8c2e0;
+    background-color: #fcb5cbe0;
     padding: 20px;
 }
 h2{
@@ -81,6 +81,6 @@ h2{
     font-weight: bold;
     font-family: 'Arial Black', sans-serif;
     text-align: left;
-    background-color: #ad9b91;
-    max-width: 200px;
+    background-color: #d8cbc4;
+    max-width: 300px;
 }
