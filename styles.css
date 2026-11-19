@@ -77,7 +77,9 @@ h1 {
 }
 h2{
     color: black;
-    font-size: 42px;
+    font-size: 24px;
     font-weight: bold;
     font-family: 'Arial Black', sans-serif;
+    text-align: left;
+    background-color: #d3ccba;
 }
